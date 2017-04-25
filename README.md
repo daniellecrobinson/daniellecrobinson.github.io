@@ -5,6 +5,6 @@ Danielle Robinson is a 2016 Mozilla Fellow for Science with PhD in Neuroscience 
 
 A better website is coming soon.
 
-In the meantime, find me (@daniellecrobins)[https://twitter.com/daniellecrobins].
-Check out what I am working on (here)[https://github.com/daniellecrobinson/fellows-class-2016/projects/2].
-And look at what I've been up to as a Mozilla Fellow (here)[https://github.com/daniellecrobinson/fellows-class-2016/blob/master/danielle/Danielle_Robinson_resume.md].
+In the meantime, find me [@daniellecrobins](https://twitter.com/daniellecrobins).
+Check out what I am working on [here](ttps://github.com/daniellecrobinson/fellows-class-2016/projects/2).
+And look at what I've been up to as a Mozilla Fellow [here](https://github.com/daniellecrobinson/fellows-class-2016/blob/master/danielle/Danielle_Robinson_resume.md).
