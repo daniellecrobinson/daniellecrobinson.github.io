@@ -1,9 +1,7 @@
-### Résumé
-
-#### Danielle C. Robinson, PhD
-#### Scientific and Partnerships Director, [Code for Science & Society](https://codeforscience.org/)
-#### T: [@daniellecrobins](https://twitter.com/daniellecrobins)
-#### G: [@daniellecrobinson](https://github.com/daniellecrobinson)
+Danielle C. Robinson, PhD
+Scientific and Partnerships Director, [Code for Science & Society](https://codeforscience.org/)
+T: [@daniellecrobins](https://twitter.com/daniellecrobins)
+G: [@daniellecrobinson](https://github.com/daniellecrobinson)
 
 #### Education
 2016 - PhD in Neuroscience, Oregon Health & Science University
