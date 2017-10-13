@@ -3,6 +3,10 @@ Scientific and Partnerships Director, [Code for Science & Society](https://codef
 T: [@daniellecrobins](https://twitter.com/daniellecrobins)  
 G: [@daniellecrobinson](https://github.com/daniellecrobinson)  
 
+
+Hi! I work on fun, engaging projects used decentralized technology to break down barriers to knowledge/information/data/research access. I advocate for public access to public information and open science. Open science means supporting inclusion and equity in science/tech/research professions. I work on projects that support open sharing of public information on the open web, including publicly funded scientific research and government data. I believe that citizen science and DIY science demystifies science and supports critical engagement in society. 
+
+
 #### Education
 2016 - PhD in Neuroscience, Oregon Health & Science University
 2002 - BA in Fine Art, Rutgers College, Rutgers University
@@ -19,9 +23,9 @@ TITLE | DESCRIPTION
 #### Events & talks
 Event | Location | Date | Role | Description
 ----- | -------- | ---- | ---- | -----------
-[Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 📢 Session Lead | [Open Ears for Open Access: A discussion of barriers, innovation, and an inclusive future for scholarship (Digital Inclusion Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/652)
-[Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 📢 Session Lead | [Host your data on the peer to peer web with Dat (Decentralization Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/505)
-[Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 📢 Session Lead | [The Upside of Down: Personal stories of failure, reinvention, and challenges faced by innovative people & open communities (Open Innovation Space](https://github.com/MozillaFoundation/mozfest-program-2017/issues/202)
+[Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [Open Ears for Open Access: A discussion of barriers, innovation, and an inclusive future for scholarship (Digital Inclusion Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/652)
+[Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [Host your data on the peer to peer web with Dat (Decentralization Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/505)
+[Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [The Upside of Down: Personal stories of failure, reinvention, and challenges faced by innovative people & open communities (Open Innovation Space](https://github.com/MozillaFoundation/mozfest-program-2017/issues/202)
 [Better Science Through Data 2017](https://www.eventbrite.co.uk/e/better-science-through-better-data-2017-scidata17-tickets-32719974324) | London, UK | October 25, 2017 |  📢 Speaker  | Dat for research data management 
 [Society for American Archivists Web Archiving Section’s annual meeting](http://www2.archivists.org/groups/web-archiving-section) | Portland OR |  July 26, 2017 | 📢 Panel Discussion | Invited panelist for a discussion on Data Rescue.
 Project strategy session at [Open Source Bridge](http://opensourcebridge.org/sessions/2065) | Portland OR |  June 21, 2017 | 👩‍🏫 Session Leader |  [microWorking Open Workshop (microWOW): Launch Your Open Project!](https://github.com/daniellecrobinson/microWOW-OSBridge-2017) A 1hr 45 min workshop to prepare participants on how to launch their open projects!
