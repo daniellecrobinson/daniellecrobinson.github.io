@@ -4,8 +4,7 @@ T: [@daniellecrobins](https://twitter.com/daniellecrobins)
 G: [@daniellecrobinson](https://github.com/daniellecrobinson)  
 
 
-Hi! I work on fun, engaging projects used decentralized technology to break down barriers to knowledge/information/data/research access. I advocate for public access to public information and open science. Open science means supporting inclusion and equity in science/tech/research professions. I work on projects that support open sharing of public information on the open web, including publicly funded scientific research and government data. I believe that citizen science and DIY science demystifies science and supports critical engagement in society. 
-
+Hi! I work on engaging projects that break down barriers to knowledge. I advocate for public access to public information and open science. Open science means supporting inclusion and equity in science/tech/research professions. I work on projects that support open sharing of public information on the open web, including publicly funded scientific research and government data. I believe that citizen science and DIY science demystifies science and supports critical engagement in society. 
 
 #### Education
 2016 - PhD in Neuroscience, Oregon Health & Science University
@@ -14,7 +13,7 @@ Hi! I work on fun, engaging projects used decentralized technology to break down
 #### Current Projects
 TITLE | DESCRIPTION
 ----- | ------------
-[Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab) | Piloting the use of [Dat](https://datproject.org/) for data publishing and research data management. In partnership with CDL UC3, we will work with UC labs to develop workflows leveraging decentrlized computing for research data management and publishing. More on the [Dat Project blog](https://blog.datproject.org/tag/science/).
+[Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab) | Piloting the use of [Dat](https://datproject.org/) for data publishing and research data management. In partnership with CDL UC3, we will work with UC labs to develop workflows leveraging decentralized computing for data management and publishing. Follow along on the [Dat Project blog](https://blog.datproject.org/tag/science/).
 [Stencila](http://stenci.la/) | Communications, and community engagement for open source reproducible research software. More at [community.stenci.la](https://community.stenci.la/)
 [Data Rescue](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Developing open metadata standards, and workflow. A series of events in Portland empowering people to work on backing up and collecting government data.
 [Open Advice](https://kirstiejane.github.io/OpenAdvice/) | Website answering your real world questions about open science.
@@ -23,11 +22,12 @@ TITLE | DESCRIPTION
 #### Events & talks
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
+[OpenCon2017](http://www.opencon2017.org/) | Berlin, DE | Novermber 11-13 | 👩‍🏫 Session Lead | Working Open session track
 [Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [Open Ears for Open Access: A discussion of barriers, innovation, and an inclusive future for scholarship (Digital Inclusion Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/652)
 [Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [Host your data on the peer to peer web with Dat (Decentralization Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/505)
 [Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [The Upside of Down: Personal stories of failure, reinvention, and challenges faced by innovative people & open communities (Open Innovation Space](https://github.com/MozillaFoundation/mozfest-program-2017/issues/202)
 [Better Science Through Data 2017](https://www.eventbrite.co.uk/e/better-science-through-better-data-2017-scidata17-tickets-32719974324) | London, UK | October 25, 2017 |  📢 Speaker | Dat for research data management 
-[Science Hack Day PDX 2107](http://portland.sciencehackday.org/)  | September 9-10, 2017 | 📋 Organizer | 24 hour prototyping event with full support for kid and teen projects. See [here](https://www.youtube.com/playlist?list=PLpryjkO3KF2zD1tnTNvr9deOe45UGHGG5) for interviews with participants.
+[Science Hack Day PDX 2107](http://portland.sciencehackday.org/) | Portland, OR | September 9-10, 2017 | 📋 Organizer | 24 hour prototyping event with full support for kid and teen projects. See [here](https://www.youtube.com/playlist?list=PLpryjkO3KF2zD1tnTNvr9deOe45UGHGG5) for interviews with participants.
 [Society for American Archivists Web Archiving Section’s annual meeting](http://www2.archivists.org/groups/web-archiving-section) | Portland OR |  July 26, 2017 | 📢 Panel Discussion | Invited panelist for a discussion on Data Rescue.
 Project strategy session at [Open Source Bridge](http://opensourcebridge.org/sessions/2065) | Portland OR |  June 21, 2017 | 👩‍🏫 Session Leader |  [microWorking Open Workshop (microWOW): Launch Your Open Project!](https://github.com/daniellecrobinson/microWOW-OSBridge-2017) A 1hr 45 min workshop to prepare participants on how to launch their open projects!
 [Working Open Workshop Cape Town](https://mozillascience.github.io/WOW-SA/) | Cape Town, South Africa |  June 16, 2017 | 📋 Organizer & 👩‍🏫 Session Leader | Train the trainer session to prepare leaders to run Working Open Workshops in Africa, ran [Open Canvas for Project Strategy](https://docs.google.com/presentation/d/1N-NNsGl43uGRlME2hDvInW7h1zYSTVG-ZyhQn5T3-64/present#slide=id.g1088c5b110_0_183), [READMEs for Open Projects](https://docs.google.com/presentation/d/1jHzsZUc8gU6yBAP6Ef1GJ3IA-sfuwMWEoq-9SNcJFgM/present#slide=id.g1cc5838e01_0_0), and [Running Your Own WOW](https://docs.google.com/presentation/d/1Wi_q_Ko7OH7zJZL7DZgsb-Fk8qDk607mbJtAs25Kaek/present#slide=id.p).
