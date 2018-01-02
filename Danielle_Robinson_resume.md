@@ -69,7 +69,8 @@ Dissertation Defense | Portland, OR | December 5, 2016 | 📢 Speaker & 🎓 Cel
 Mozilla Fellows Onboarding | Toronto, CA | September 12-15, 2016 | 🙋 Participant | Joined the 2016 Open Science and Open Web Fellows at Mozilla in Toronto for a week of bonding, project planning, and learning from each other - recap [here](https://science.mozilla.org/blog/2016-fellows-onboarding-recap).
 
 #### Writing
-* [Dat in the Lab at UC Merced: Reproducible bioinformatics pipelines in marine ecology](Dat in the Lab at UC Merced: Reproducible bioinformatics pipelines in marine ecology)
+* [Virtualizing environments for eDNA analysis](https://blog.datproject.org/2017/11/28/draft-pipelines-edna-and-more/)
+* [Dat in the Lab at UC Merced: Reproducible bioinformatics pipelines in marine ecology](https://blog.datproject.org/2017/10/12/uc-merced-1/)
 * [Dat in the Lab at UC Davis: A tale of office dogs, watershed sciences, and user feedback](https://blog.datproject.org/2017/10/06/dat-in-the-lab-ucdavis-1/)
 * [Moore Foundation supports new collaboration with California Digital Library (and a new team member!)](https://blog.datproject.org/2017/09/14/dat-in-the-lab/)
 * [MozFellows on the Road in Cape Town, South Africa!](https://science.mozilla.org/blog/fellows-south-africa-2017)
@@ -96,7 +97,6 @@ TITLE | TECH USED | DESCRIPTION
 #### Undergrad BA in fine art?
 Experience | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
-
 Post-Baccalaureate Premedical Certificate program | University of Vermont, Burlington VT | 2008–2009 	|  🙋 Student | Completed premed courses while working in a lab and at an elder care facility
 Back to school to study science | LaGuardia Community College, Long Island City NY | 2007-2008 |  🙋 Student | Completed basic science courses while working at a bakery and as a fancy coffee barista
 Decorative Arts Project Manager | New York City region | 2001–2006 | 👩‍🎨 Designer, project manager, and crew leader | Lead a team of painters and artists to execute murals, wall treatments, and flat painting.  Responsibilities included budgeting projects, communicating with clients, addressing technical problems, and managing the team.
