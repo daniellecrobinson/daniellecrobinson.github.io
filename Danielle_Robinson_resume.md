@@ -1,10 +1,11 @@
-Danielle C. Robinson, PhD  
+Danielle C. Robinson, PhD 
+Co-Executive Director, [Code for Science & Society](https://codeforscience.org/)  
 Scientific and Partnerships Director, [Code for Science & Society](https://codeforscience.org/)  
 T: [@daniellecrobins](https://twitter.com/daniellecrobins)  
 G: [@daniellecrobinson](https://github.com/daniellecrobinson)  
 
 
-Hi! I work on engaging projects that break down barriers to knowledge. I advocate for public access to public information and open science. Open science means supporting inclusion and equity in science/tech/research professions. I work on projects that support open sharing of public information on the open web, including publicly funded scientific research and government data. I believe that citizen science and DIY science demystifies science and supports critical engagement in society. 
+Hi! I work on projects that break down barriers to knowledge. I advocate for public access to public information and open science. Open science means supporting inclusion and equity in science/tech/research professions. I work on projects that support open sharing of public information on the open web, including publicly funded scientific research and government data. I believe that citizen science and DIY science demystifies science and supports critical engagement in society. 
 
 #### Education
 2016 - PhD in Neuroscience, Oregon Health & Science University
@@ -13,16 +14,17 @@ Hi! I work on engaging projects that break down barriers to knowledge. I advocat
 #### Current Projects
 TITLE | DESCRIPTION
 ----- | ------------
-[Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab) | Piloting the use of [Dat](https://datproject.org/) for data publishing and research data management. In partnership with CDL UC3, we will work with UC labs to develop workflows leveraging decentralized computing for data management and publishing. Follow along on the [Dat Project blog](https://blog.datproject.org/tag/science/).
+[Dat](https://datproject.org/) | Piloting the use of [Dat](https://datproject.org/) for data publishing and research data management via [Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab). In partnership with CDL UC3, we work with UC labs to develop workflows leveraging decentralized computing for data management and publishing. Follow along on the [Dat Project blog](https://blog.datproject.org/tag/science/).
 [Stencila](http://stenci.la/) | Communications, and community engagement for open source reproducible research software. More at [community.stenci.la](https://community.stenci.la/)
-[Data Rescue](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Developing open metadata standards, and workflow. A series of events in Portland empowering people to work on backing up and collecting government data.
+[ScienceFair](http://sciencefair-app.com/) | Strategy and fundraising for open source peer to peer desktop publication library management software. 
+[Data Rescue](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Developing open metadata standards, and workflow. A series of events in Portland empowering people to work on backing up and collecting government data. Collaboration with wider community via [Libraries+Network](https://libraries.network/).
 [Open Advice](https://kirstiejane.github.io/OpenAdvice/) | Website answering your real world questions about open science.
 [Radian Data](http://radiandata.com/) | A platform that enables curation, centralization, and discovery of resources for open data practitioners, educators, and enthusiasts on the open web. This project will fill a community need by helping researchers, students, and librarians connect to the best resources on data topics and build cross-disciplinary connections.
 
 #### Events & talks
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
-[Online Northwest 2018](http://onlinenorthwest.org/) | Portland, OR | March 30, 2018 | 📢 Speaker | Co-keynote with Max Ogden on a vision for distributed data archiving
+[Online Northwest 2018](http://onlinenorthwest.org/) | Portland, OR | March 30, 2018 | 📢 Speaker | Keynote: A vision for distributed data archiving (and the role libraries can play)
 [American Medical Women's Association](https://www.amwa-doc.org/) Portland conference | Portland, OR | December 2, 2017 | 📢 Speaker | Community Activism panel discussion: Learn how to develop and advocate for policies within health care institutions partner with community groups to promote public health, and advocate locally.
 [OpenCon2017](http://www.opencon2017.org/) | Berlin, DE | November 11-13, 2017 | 👩‍🏫 Session Lead | North America Regional Workshop Group 1: [How might we understand and address the time demands of working on open initiatives?](https://github.com/sparcopen/doathon/issues/35)
 [Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [Open Ears for Open Access: A discussion of barriers, innovation, and an inclusive future for scholarship (Digital Inclusion Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/652)
@@ -77,10 +79,11 @@ Mozilla Fellows Onboarding | Toronto, CA | September 12-15, 2016 | 🙋 Particip
 * [Introducing the 2016 Mozilla Science Fellows: Danielle Robinson](https://science.mozilla.org/blog/intro-to-danielle)
 
 #### Skills
-* Data analysis and visualization
-* Project management and communication
-* Grant writing
-* Training beginner level users in data analysis in R, GitHub, project strategy & management
+
+* Project strategy, management, and communication
+* Public speaking and technical communication
+* Grant writing and fundraising
+* Leading workshops on Dat and peer to peer computing, data analysis in R, Git and GitHub, project strategy & management
 
 #### Past Projects
 TITLE | TECH USED | DESCRIPTION
