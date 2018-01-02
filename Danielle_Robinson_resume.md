@@ -8,7 +8,9 @@ G: [@daniellecrobinson](https://github.com/daniellecrobinson)
 Hi! I work on projects that break down barriers to knowledge. I advocate for public access to public information and open science. Open science means supporting inclusion and equity in science/tech/research professions. I work on projects that support open sharing of public information on the open web, including publicly funded scientific research and government data. I believe that citizen science and DIY science demystifies science and supports critical engagement in society. 
 
 #### Education
+
 2016 - PhD in Neuroscience, Oregon Health & Science University
+
 2002 - BA in Fine Art, Rutgers College, Rutgers University
 
 #### Current Projects
@@ -90,6 +92,15 @@ TITLE | TECH USED | DESCRIPTION
 ----- | --------- | ------------
 [BioData Club](https://github.com/BioData-Club/BioData-Club.github.io) | Website, community, and curriculum development  | A twice-monthly study group and online curriculum resource. On campus support for students and postdocs learning to code! Do it / teach it!
 [Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/)  | Website, survey, and community building | A campaign support early career researchers efforts to create an inclusive future for science and insure that societies are standing up for science in an era of "alternative facts", by advocating inside scientific societies. This campaign supported by the early career advocacy group [Future of Research](http://futureofresearch.org/).
+
+#### Undergrad BA in fine art?
+Experience | Location | Date | Role | Description
+---------- | -------- | ---- | ---- | -----------
+
+Post-Baccalaureate Premedical Certificate program | University of Vermont, Burlington VT | 2008–2009 	|  🙋 Student | Completed premed courses while working in a lab and at an elder care facility
+Back to school to study science | LaGuardia Community College, Long Island City NY | 2007-2008 |  🙋 Student | Completed basic science courses while working at a bakery and as a fancy coffee barista
+Decorative Arts Project Manager | New York City region | 2001–2006 | 👩‍🎨 Designer, project manager, and crew leader | Lead a team of painters and artists to execute murals, wall treatments, and flat painting.  Responsibilities included budgeting projects, communicating with clients, addressing technical problems, and managing the team.
+
 
 
 #### Where?
