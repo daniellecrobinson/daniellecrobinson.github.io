@@ -4,9 +4,6 @@ Scientific and Partnerships Director, [Code for Science & Society](https://codef
 T: [@daniellecrobins](https://twitter.com/daniellecrobins)  
 G: [@daniellecrobinson](https://github.com/daniellecrobinson)  
 
-
-Hi! I work on projects that break down barriers to knowledge. I advocate for public access to public information and open science. Open science means supporting inclusion and equity in science/tech/research professions. I work on projects that support open sharing of public information on the open web, including publicly funded scientific research and government data. I believe that citizen science and DIY science demystifies science and supports critical engagement in society. 
-
 #### Education
 
 2016 - PhD in Neuroscience, Oregon Health & Science University
