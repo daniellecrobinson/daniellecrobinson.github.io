@@ -1,6 +1,5 @@
 Danielle C. Robinson, PhD 
 Co-Executive Director, [Code for Science & Society](https://codeforscience.org/)  
-Scientific and Partnerships Director, [Code for Science & Society](https://codeforscience.org/)  
 T: [@daniellecrobins](https://twitter.com/daniellecrobins)  
 G: [@daniellecrobinson](https://github.com/daniellecrobinson)  
 
@@ -10,20 +9,33 @@ G: [@daniellecrobinson](https://github.com/daniellecrobinson)
 
 2002 - BA in Fine Art, Rutgers College, Rutgers University
 
-#### Current Projects
-TITLE | DESCRIPTION
+#### CS&S Foundational Technology Program
+PROJECT | DESCRIPTION
 ----- | ------------
-[Dat](https://datproject.org/) | Piloting the use of [Dat](https://datproject.org/) for data publishing and research data management via [Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab). In partnership with CDL UC3, we work with UC labs to develop workflows leveraging decentralized computing for data management and publishing. Follow along on the [Dat Project blog](https://blog.datproject.org/tag/science/).
-[Stencila](http://stenci.la/) | Communications, and community engagement for open source reproducible research software. More at [community.stenci.la](https://community.stenci.la/)
-[ScienceFair](http://sciencefair-app.com/) | Strategy and fundraising for open source peer to peer desktop publication library management software. 
-[Data Rescue](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Developing open metadata standards, and workflow. A series of events in Portland empowering people to work on backing up and collecting government data. Collaboration with wider community via [Libraries+Network](https://libraries.network/).
-[Open Advice](https://kirstiejane.github.io/OpenAdvice/) | Website answering your real world questions about open science.
-[Radian Data](http://radiandata.com/) | A platform that enables curation, centralization, and discovery of resources for open data practitioners, educators, and enthusiasts on the open web. This project will fill a community need by helping researchers, students, and librarians connect to the best resources on data topics and build cross-disciplinary connections.
+[Dat in the Lab](https://blog.datproject.org/tag/science/) | Piloting the use of [Dat](https://datproject.org/) for data publishing and research data management via [Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab). In partnership with CDL UC3, we work with UC labs to develop workflows leveraging decentralized computing for data management and publishing. Follow along on the [Dat Project blog](https://blog.datproject.org/tag/science/).
+(Cooperative Preservation Network Project)[link to announcement]
+
+#### CS&S Collaborative Communities Program
+PROJECT | DESCRIPTION
+----- | ------------
+Consulting| |
+HandBook Hackathon| |
+JROST| |
+
+#### CS&S Sponsored Project Program
+PROJECT | DESCRIPTION
+----- | ------------
+[Dat](https://datproject.org/) | An open source, peer-to-peer file sharing protocol.
+[Stencila](http://stenci.la/) | Open source reproducible research software. More at [community.stenci.la](https://community.stenci.la/)
+[ScienceFair](http://sciencefair-app.com/) | Desktop publication library management software built with Dat. 
+
 
 #### Events & talks
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
-[Online Northwest 2018](http://onlinenorthwest.org/) | Portland, OR | March 30, 2018 | 📢 Speaker | Keynote: A vision for distributed data archiving (and the role libraries can play)
+[FORCE2018](https://www.force11.org/meetings/force2018)| Montreal, CA| October 11-12, 2018 | 📢 Speaker | Decentralized Data Preservation
+[Decentralized Web Summit 2018](https://decentralizedweb.net/) | San Francisco, USA | August 1-2, 2018 | 🙋 Participant | The Dat Project
+[Online Northwest 2018](http://onlinenorthwest.org/) | Portland, USA | March 30, 2018 | 📢 Speaker | Keynote: A vision for distributed data archiving (and the role libraries can play)
 [American Medical Women's Association](https://www.amwa-doc.org/) Portland conference | Portland, OR | December 2, 2017 | 📢 Speaker | Community Activism panel discussion: Learn how to develop and advocate for policies within health care institutions partner with community groups to promote public health, and advocate locally.
 [OpenCon2017](http://www.opencon2017.org/) | Berlin, DE | November 11-13, 2017 | 👩‍🏫 Session Lead | North America Regional Workshop Group 1: [How might we understand and address the time demands of working on open initiatives?](https://github.com/sparcopen/doathon/issues/35)
 [Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [Open Ears for Open Access: A discussion of barriers, innovation, and an inclusive future for scholarship (Digital Inclusion Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/652)
