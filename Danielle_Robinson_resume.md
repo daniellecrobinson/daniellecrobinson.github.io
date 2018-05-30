@@ -35,7 +35,7 @@ Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
 [FORCE2018](https://www.force11.org/meetings/force2018)| Montreal, CA| October 11-12, 2018 | 📢 Speaker | Decentralized Data Preservation
 [Decentralized Web Summit 2018](https://decentralizedweb.net/) | San Francisco, USA | August 1-2, 2018 | 🙋 Participant | The Dat Project
-[Online Northwest 2018](http://onlinenorthwest.org/) | Portland, USA | March 30, 2018 | 📢 Speaker | Keynote: A vision for distributed data archiving (and the role libraries can play)
+[Online Northwest 2018](http://onlinenorthwest.org/) | Portland, USA | March 30, 2018 | 📢 Speaker | Keynote: A Vision for Decentralized Data Preservation Across a Network of Libraries and Trusted Institutions
 [American Medical Women's Association](https://www.amwa-doc.org/) Portland conference | Portland, OR | December 2, 2017 | 📢 Speaker | Community Activism panel discussion: Learn how to develop and advocate for policies within health care institutions partner with community groups to promote public health, and advocate locally.
 [OpenCon2017](http://www.opencon2017.org/) | Berlin, DE | November 11-13, 2017 | 👩‍🏫 Session Lead | North America Regional Workshop Group 1: [How might we understand and address the time demands of working on open initiatives?](https://github.com/sparcopen/doathon/issues/35)
 [Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [Open Ears for Open Access: A discussion of barriers, innovation, and an inclusive future for scholarship (Digital Inclusion Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/652)
