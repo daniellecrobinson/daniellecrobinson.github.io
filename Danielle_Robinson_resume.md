@@ -35,8 +35,8 @@ Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
 [FORCE2018](https://www.force11.org/meetings/force2018)| Montreal, CA| October 11-12, 2018 | 📢 Speaker | Decentralized Data Preservation
 [Western States Government Information Virtual Conference](https://www.colorado.edu/libraries/libraries/norlin-library/government-information-library/western-states-government-information)| Online | August 8, 2018 | 📢 Speaker | Keynote:  Community owned infrastructure for long-term, local data preservation
-[Oregon State University Library Faculty Association seminar]| Corvalis, OR | July 13, 2018 | 📢 Speaker | A Vision for Decentralized Data Preservation Across a Network of Libraries and Trusted Institutions.  Reprise my Online NW keynote and facilitate a discussion with library and research faculty about data preservation workflows and how a decentralized model would work in their practice.  
-[Decentralized Web Summit 2018](https://decentralizedweb.net/) | San Francisco, USA | August 1-2, 2018 | 🙋 Participant | The Dat Project
+[Decentralized Web Summit 2018](https://decentralizedweb.net/) | San Francisco, USA | August 1-2, 2018 | 🙋 Participant | Code for Science & Society and The Dat Project
+[Oregon State University Library Faculty Association seminar]| Corvalis, OR | July 13, 2018 | 📢 Speaker | Prototyping A Decentralized Data Preservation Network
 [DLF eResearch Network](https://osf.io/7twby/)| Webinar | June 20, 2018 |  📢 Speaker | Community Engagement with Stephanie Wright (Mozilla)
 [Online Northwest 2018](http://onlinenorthwest.org/) | Portland, USA | March 30, 2018 | 📢 Speaker | Keynote: A Vision for Decentralized Data Preservation Across a Network of Libraries and Trusted Institutions
 [American Medical Women's Association](https://www.amwa-doc.org/) Portland conference | Portland, OR | December 2, 2017 | 📢 Speaker | Community Activism panel discussion: Learn how to develop and advocate for policies within health care institutions partner with community groups to promote public health, and advocate locally.
