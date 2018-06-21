@@ -13,7 +13,7 @@ G: [@daniellecrobinson](https://github.com/daniellecrobinson)
 PROJECT | DESCRIPTION
 ----- | ------------
 [Dat in the Lab](https://blog.datproject.org/tag/science/) | Piloting the use of [Dat](https://datproject.org/) for data publishing and research data management via [Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab). In partnership with CDL UC3, we work with UC labs to develop workflows leveraging decentralized computing for data management and publishing. Follow along on the [Dat Project blog](https://blog.datproject.org/tag/science/).
-(Cooperative Preservation Network Project)[link to announcement]
+(Cooperative Preservation Network Project)[https://blog.datproject.org/2018/06/05/cdl-ia-dat-pilot/] | Prototyping a multi institutional decentralized data preservation network. 
 
 #### CS&S Collaborative Communities Program
 PROJECT | DESCRIPTION
