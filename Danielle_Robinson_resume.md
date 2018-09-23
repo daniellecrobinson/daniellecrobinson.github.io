@@ -1,4 +1,5 @@
-Danielle C. Robinson, PhD 
+Danielle C. Robinson, PhD
+
 Co-Executive Director, [Code for Science & Society](https://codeforscience.org/)  
 T: [@daniellecrobins](https://twitter.com/daniellecrobins)  
 G: [@daniellecrobinson](https://github.com/daniellecrobinson)  
@@ -27,13 +28,16 @@ PROJECT | DESCRIPTION
 ----- | ------------
 [Dat](https://datproject.org/) | An open source, peer-to-peer file sharing protocol.
 [Stencila](http://stenci.la/) | Open source reproducible research software. More at [community.stenci.la](https://community.stenci.la/)
+[PREreview](prereview.org) | Developing peer review skills in early career researchers and advancing the pace of research through preprint journal clubs that produce public, citable reviews.
 [ScienceFair](http://sciencefair-app.com/) | Desktop publication library management software built with Dat. 
 
 
 #### Events & talks
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
-[FORCE2018](https://www.force11.org/meetings/force2018)| Montreal, CA| October 11-12, 2018 | 📢 Speaker | Decentralized Data Preservation
+[Aaron Swartz Day](https://www.aaronswartzday.org/) | San Francisco, USA | Nov 10-11, 2018 | 📢 Speaker | In conversation with Karissa McKelvey about the decentralized web and the future of scholarly work online, more in [this interview](http://www.mondo2000.com/2018/08/21/aaron-swartz-day-2018-part-2/)
+[Whyspace? @ MozFest House 2018](https://wwhhyy.space/) | London, UK | October 24, 2018 | 📋 Organizer | Conversations and workshops seeking to explore and unearth more questions about why the web is where it is and what it could be
+[FORCE2018](https://www.force11.org/meetings/force2018)| Montreal, CA | October 11-12, 2018 | 📢 Speaker | A decentralized scholarly commons
 [Western States Government Information Virtual Conference](https://www.colorado.edu/libraries/libraries/norlin-library/government-information-library/western-states-government-information)| Online | August 8, 2018 | 📢 Speaker | Keynote:  Community owned infrastructure for long-term, local data preservation
 [Decentralized Web Summit 2018](https://decentralizedweb.net/) | San Francisco, USA | August 1-2, 2018 | 🙋 Participant | Code for Science & Society and The Dat Project
 [Oregon State University Library Faculty Association seminar]| Corvalis, OR | July 13, 2018 | 📢 Speaker | Prototyping A Decentralized Data Preservation Network
