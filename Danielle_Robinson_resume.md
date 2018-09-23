@@ -10,27 +10,6 @@ G: [@daniellecrobinson](https://github.com/daniellecrobinson)
 
 2002 - BA in Fine Art, Rutgers College, Rutgers University
 
-#### CS&S Foundational Technology Program
-PROJECT | DESCRIPTION
------ | ------------
-[Dat in the Lab](https://blog.datproject.org/tag/science/) | Piloting the use of [Dat](https://datproject.org/) for data publishing and research data management via [Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab). In partnership with CDL UC3, we work with UC labs to develop workflows leveraging decentralized computing for data management and publishing. Follow along on the [Dat Project blog](https://blog.datproject.org/tag/science/).
-[Cooperative Preservation Network Project](https://blog.datproject.org/2018/06/05/cdl-ia-dat-pilot/) | Prototyping a multi institutional decentralized data preservation network. 
-
-#### CS&S Collaborative Communities Program
-PROJECT | DESCRIPTION
------ | ------------
-Consulting| |
-HandBook Hackathon| |
-JROST| |
-
-#### CS&S Sponsored Project Program
-PROJECT | DESCRIPTION
------ | ------------
-[Dat](https://datproject.org/) | An open source, peer-to-peer file sharing protocol.
-[Stencila](http://stenci.la/) | Open source reproducible research software. More at [community.stenci.la](https://community.stenci.la/)
-[PREreview](prereview.org) | Developing peer review skills in early career researchers and advancing the pace of research through preprint journal clubs that produce public, citable reviews.
-[ScienceFair](http://sciencefair-app.com/) | Desktop publication library management software built with Dat. 
-
 
 #### Events & talks
 Event | Location | Date | Role | Description
@@ -103,6 +82,20 @@ Mozilla Fellows Onboarding | Toronto, CA | September 12-15, 2016 | 🙋 Particip
 * Public speaking and technical communication
 * Grant writing and fundraising
 * Leading workshops on Dat and peer to peer computing, data analysis in R, Git and GitHub, project strategy & management
+
+#### CS&S Sponsored Project Program
+PROJECT | DESCRIPTION
+----- | ------------
+[Dat](https://datproject.org/) | An open source, peer-to-peer file sharing protocol.
+[Stencila](http://stenci.la/) | Open source reproducible research software. More at [community.stenci.la](https://community.stenci.la/)
+[PREreview](prereview.org) | Developing peer review skills in early career researchers and advancing the pace of research through preprint journal clubs that produce public, citable reviews.
+[ScienceFair](http://sciencefair-app.com/) | Desktop publication library management software built with Dat. 
+
+#### CS&S Foundational Technology Program
+PROJECT | DESCRIPTION
+----- | ------------
+[Dat in the Lab](https://blog.datproject.org/tag/science/) | Piloting the use of [Dat](https://datproject.org/) for data publishing and research data management via [Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab). In partnership with CDL UC3, we work with UC labs to develop workflows leveraging decentralized computing for data management and publishing. Follow along on the [Dat Project blog](https://blog.datproject.org/tag/science/).
+[Cooperative Preservation Network Project](https://blog.datproject.org/2018/06/05/cdl-ia-dat-pilot/) | Prototyping a multi institutional decentralized data preservation network. 
 
 #### Past Projects
 TITLE | TECH USED | DESCRIPTION
