@@ -14,6 +14,9 @@ G: [@daniellecrobinson](https://github.com/daniellecrobinson)
 #### Events & talks
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
+[csv,conf,v4](https://csvconf.com/) | Portland, US | May 8-9, 2019 | 📋 Organizer  | Core org team and program committee for the world's best community run open data conference.
+[PREreview + Outbreak Science Design Sprint]() | London, UK | March 13-14, 2019 | 📢+📋 Facilitator  | Ran a productive convening of outbreak scientists, policy experts, and scientific publishing folks to feedback into the design of a Rapid Review format designed to get reviews on preprints during outbreaks fast. 
+[URSSI Software Incubator Workshop](http://urssi.us/blog/2019/02/25/software-incubator-workshop-a-synthesis/) | College Park, US| February 11-12, 2019 | 🙋 Participant  | Participated in a two day discussion centered on the question: Are there specific patterns of open community challenges and growth for research software that an incubator could address?  
 [Aaron Swartz Day](https://www.aaronswartzday.org/) | San Francisco, USA | Nov 10-11, 2018 | 📢 Speaker | In conversation with Karissa McKelvey about the decentralized web and the future of scholarly work online, more in [this interview](http://www.mondo2000.com/2018/08/21/aaron-swartz-day-2018-part-2/)
 [Whyspace? @ MozFest House 2018](https://wwhhyy.space/) | London, UK | October 24, 2018 | 📋 Organizer | Conversations and workshops seeking to explore and unearth more questions about why the web is where it is and what it could be
 [FORCE2018](https://www.force11.org/meetings/force2018)| Montreal, CA | October 11-12, 2018 | 📢 Speaker | [A decentralized scholarly commons](https://force2018.sched.com/event/F7ty/a-decentralized-scholarly-commons), [slides](https://zenodo.org/record/1458149), [video]
