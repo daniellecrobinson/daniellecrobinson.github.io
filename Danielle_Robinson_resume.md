@@ -11,10 +11,11 @@ G: [@daniellecrobinson](https://github.com/daniellecrobinson)
 2002 - BA in Fine Art, Rutgers College, Rutgers University
 
 
-#### Events & talks
+#### Events, talks, writing
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
 [csv,conf,v4](https://csvconf.com/) | Portland, US | May 8-9, 2019 | 📋 Organizer  | Core org team and program committee for the world's best community run open data conference.
+[Reenvisioning the Internet: Decentralize the Web to Sidestep Corporate Control](https://walkerart.org/magazine/soundboard-reenvisioning-internet-robinson-pressman) | Walker Soundboard | March 21, 2019 | 📃 Author | When we ask whether a better internet is possible, we should first ask: for whom? 
 [PREreview + Outbreak Science Design Sprint](https://blog.codeforscience.org/prereview-awarded-two-grants/) | London, UK | March 13-14, 2019 | 📢+📋 Facilitator  | Ran a productive convening of outbreak scientists, policy experts, and scientific publishing folks to feedback into the design of a Rapid Review format designed to get reviews on preprints during outbreaks fast. 
 [URSSI Software Incubator Workshop](http://urssi.us/blog/2019/02/25/software-incubator-workshop-a-synthesis/) | College Park, US| February 11-12, 2019 | 🙋 Participant  | Participated in a two day discussion centered on the question: Are there specific patterns of open community challenges and growth for research software that an incubator could address?  
 [Aaron Swartz Day](https://www.aaronswartzday.org/) | San Francisco, USA | Nov 10-11, 2018 | 📢 Speaker | In conversation with Karissa McKelvey about the decentralized web and the future of scholarly work online, more in [this interview](http://www.mondo2000.com/2018/08/21/aaron-swartz-day-2018-part-2/)
