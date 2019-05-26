@@ -14,8 +14,8 @@ G: [@daniellecrobinson](https://github.com/daniellecrobinson)
 #### Events, talks, writing
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
-[The Open Source Alliance for Open Scholarship Leadership Meetup](https://osaos.codeforscience.org/)| Portland, USA | May 10, 2019 | 📋 Organizer & Facilitator | Bringing a community of leaders together to share expereinces of developing projects in open source and open scholarship.
-[csv,conf,v4](https://csvconf.com/) | Portland, USA | May 8-9, 2019 | 📋 Organizer  | Core org team and program committee for the world's best community run open data conference.
+[The Open Source Alliance for Open Scholarship Leadership Meetup](https://osaos.codeforscience.org/)| Portland, USA | May 10, 2019 | 📋 Organizer & Facilitator | Bringing a community of leaders together to share experiences of developing projects in open source and open scholarship.
+[csv,conf,v4](https://csvconf.com/) | Portland, USA | May 8-9, 2019 | 📋 Organizer  | Core org team and program committee for the world's best community-run open data conference.
 [Reenvisioning the Internet: Decentralize the Web to Sidestep Corporate Control](https://walkerart.org/magazine/soundboard-reenvisioning-internet-robinson-pressman) | Walker Soundboard | March 21, 2019 | 📃 Author | When we ask whether a better internet is possible, we should first ask: for whom? 
 [PREreview + Outbreak Science Design Sprint](https://blog.codeforscience.org/prereview-awarded-two-grants/) | London, UK | March 13-14, 2019 | 📢+📋 Facilitator  | Ran a productive convening of outbreak scientists, policy experts, and scientific publishing folks to feedback into the design of a Rapid Review format designed to get reviews on preprints during outbreaks fast. 
 [URSSI Software Incubator Workshop](http://urssi.us/blog/2019/02/25/software-incubator-workshop-a-synthesis/) | College Park, US| February 11-12, 2019 | 🙋 Participant  | Participated in a two day discussion centered on the question: Are there specific patterns of open community challenges and growth for research software that an incubator could address?  
