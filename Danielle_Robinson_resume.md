@@ -21,7 +21,7 @@ Event | Location | Date | Role | Description
 [URSSI Software Incubator Workshop](http://urssi.us/blog/2019/02/25/software-incubator-workshop-a-synthesis/) | College Park, US| February 11-12, 2019 | 🙋 Participant  | Participated in a two day discussion centered on the question: Are there specific patterns of open community challenges and growth for research software that an incubator could address?  
 [Aaron Swartz Day](https://www.aaronswartzday.org/) | San Francisco, USA | Nov 10-11, 2018 | 📢 Speaker | In conversation with Karissa McKelvey about the decentralized web and the future of scholarly work online, more in [this interview](http://www.mondo2000.com/2018/08/21/aaron-swartz-day-2018-part-2/)
 [Whyspace? @ MozFest House 2018](https://wwhhyy.space/) | London, UK | October 24, 2018 | 📋 Organizer | Conversations and workshops seeking to explore and unearth more questions about why the web is where it is and what it could be
-[FORCE2018](https://www.force11.org/meetings/force2018)| Montreal, CA | October 11-12, 2018 | 📢 Speaker | [A decentralized scholarly commons](https://force2018.sched.com/event/F7ty/a-decentralized-scholarly-commons), [slides](https://zenodo.org/record/1458149), [video]
+[FORCE2018](https://www.force11.org/meetings/force2018)| Montreal, CA | October 11-12, 2018 | 📢 Speaker | [A decentralized scholarly commons](https://force2018.sched.com/event/F7ty/a-decentralized-scholarly-commons), [slides](https://zenodo.org/record/1458149), [video](https://www.youtube.com/watch?v=NKan5TIbtk8&list=PLtYOue8U25N2jBWo-iKIlZkUmAqOYemqn&index=4&t=10s)
 [Western States Government Information Virtual Conference](https://www.colorado.edu/libraries/libraries/norlin-library/government-information-library/western-states-government-information)| Online | August 8, 2018 | 📢 Speaker | Keynote:  Community owned infrastructure for long-term, local data preservation
 [Decentralized Web Summit 2018](https://decentralizedweb.net/) | San Francisco, USA | August 1-2, 2018 | 📢 Speaker | [Data Stewardship on the Decentralized Web](https://www.decentralizedweb.net/data-stewardship/) - Code for Science & Society and The Dat Project
 [The Open Source Alliance for Open Scholarship Handbook Hackathon](https://osaos.codeforscience.org/)| New York, USA | July 26-28, 2018 | 📋 Organizer & Facilitator | Bringing a community together to share expereinces of developing projects in open source and open scholarship.
@@ -90,25 +90,12 @@ Mozilla Fellows Onboarding | Toronto, CA | September 12-15, 2016 | 🙋 Particip
 * Grant writing and fundraising
 * Leading workshops on Dat and peer to peer computing, data analysis in R, Git and GitHub, project strategy & management
 
-#### CS&S Sponsored Project Program
+#### Projects
 PROJECT | DESCRIPTION
 ----- | ------------
-[Dat](https://datproject.org/) | An open source, peer-to-peer file sharing protocol.
-[Stencila](http://stenci.la/) | Open source reproducible research software. More at [community.stenci.la](https://community.stenci.la/)
-[PREreview](prereview.org) | Developing peer review skills in early career researchers and advancing the pace of research through preprint journal clubs that produce public, citable reviews.
-[ScienceFair](http://sciencefair-app.com/) | Desktop publication library management software built with Dat. 
-
-#### CS&S Foundational Technology Program
-PROJECT | DESCRIPTION
------ | ------------
+[Open Source Alliance for Open Scholarship](https://osaos.codeforscience.org/) | A community designed to encourage radical transparency and information sharing acorss open scholarship. 
 [Dat in the Lab](https://blog.datproject.org/tag/science/) | Piloting the use of [Dat](https://datproject.org/) for data publishing and research data management via [Dat in the Lab](https://github.com/codeforscience/Dat-in-the-Lab). In partnership with CDL UC3, we work with UC labs to develop workflows leveraging decentralized computing for data management and publishing. Follow along on the [Dat Project blog](https://blog.datproject.org/tag/science/).
 [Cooperative Preservation Network Project](https://blog.datproject.org/2018/06/05/cdl-ia-dat-pilot/) | Prototyping a multi institutional decentralized data preservation network. 
-
-#### Past Projects
-TITLE | TECH USED | DESCRIPTION
------ | --------- | ------------
-[BioData Club](https://github.com/BioData-Club/BioData-Club.github.io) | Website, community, and curriculum development  | A twice-monthly study group and online curriculum resource. On campus support for students and postdocs learning to code! Do it / teach it!
-[Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/)  | Website, survey, and community building | A campaign support early career researchers efforts to create an inclusive future for science and insure that societies are standing up for science in an era of "alternative facts", by advocating inside scientific societies. This campaign supported by the early career advocacy group [Future of Research](http://futureofresearch.org/).
 
 #### Undergrad BA in fine art?
 Experience | Location | Date | Role | Description
@@ -117,7 +104,3 @@ Post-Baccalaureate Premedical Certificate program | University of Vermont, Burli
 Back to school to study science | LaGuardia Community College, Long Island City NY | 2007-2008 |  🙋 Student | Completed basic science courses while working at a bakery and as a fancy coffee barista
 Decorative Arts Project Manager | New York City region | 2001–2006 | 👩‍🎨 Designer, project manager, and crew leader | Lead a team of painters and artists to execute murals, wall treatments, and flat painting.  Responsibilities included budgeting projects, communicating with clients, addressing technical problems, and managing the team.
 
-
-
-#### Where?
-![img](https://github.com/daniellecrobinson/fellows-class-2016/blob/master/danielle/Mozilla-travels-2016-2017.png)
