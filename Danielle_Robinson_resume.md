@@ -1,19 +1,20 @@
-Danielle C. Robinson, PhD
+## Danielle C. Robinson, PhD
 
-President, Co-Executive Director
-[Code for Science & Society](https://codeforscience.org/)  
-[daniellecrobinson.com](daniellecrobinson.com)
-T: [@daniellecrobins](https://twitter.com/daniellecrobins)  
-G: [@daniellecrobinson](https://github.com/daniellecrobinson)  
+President, Co-Executive Director 
+[Code for Science & Society](https://codeforscience.org/)    
+[daniellecrobinson.com](daniellecrobinson.com) and [dat://about-danielle.hashbase.io/](dat://about-danielle.hashbase.io/) 
+Fediverse: @danielle@friend.camp  
+Twitter: @daniellecrobins 
+Github, GitLab: @daniellecrobinson
 
-#### Education
+### Education
 
 2016 - PhD in Neuroscience, Oregon Health & Science University
 
 2002 - BA in Fine Art, Rutgers College, Rutgers University
 
 
-#### Select Experience
+### Select Experience
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
 [The Open Source Alliance for Open Scholarship Leadership Meetup](https://osaos.codeforscience.org/)| Portland, USA | May 10, 2019 | 📋 Organizer & Facilitator | Bringing a community of leaders together to share experiences of developing projects in open source and open scholarship.
