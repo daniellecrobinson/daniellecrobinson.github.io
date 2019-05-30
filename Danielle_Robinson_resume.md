@@ -1,11 +1,11 @@
 ## Danielle C. Robinson, PhD
 
-President, Co-Executive Director 
-[Code for Science & Society](https://codeforscience.org/)    
-[daniellecrobinson.com](daniellecrobinson.com) and [dat://about-danielle.hashbase.io/](dat://about-danielle.hashbase.io/) 
+President, Co-Executive Director. 
+[Code for Science & Society](https://codeforscience.org/)      
+[daniellecrobinson.com](daniellecrobinson.com) and [dat://about-danielle.hashbase.io/](dat://about-danielle.hashbase.io/)  
 Fediverse: @danielle@friend.camp  
-Twitter: @daniellecrobins 
-Github, GitLab: @daniellecrobinson
+Twitter: @daniellecrobins  
+Github, GitLab: @daniellecrobinson  
 
 ### Education
 
