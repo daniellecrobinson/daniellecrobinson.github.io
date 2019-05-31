@@ -69,7 +69,7 @@ Dissertation Defense | Portland, OR | December 5, 2016 | 📢 Speaker & 🎓 Cel
 
 
 
-#### How did I get from an undergraduate degree in fune art to open advocacy?
+#### How did I get from an undergraduate degree in fine art to open advocacy?
 Experience | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
 Post-Baccalaureate Premedical Certificate program | University of Vermont, Burlington VT | 2008–2009 	|  🙋 Student | Completed premed courses while working in a lab and at an elder care facility
