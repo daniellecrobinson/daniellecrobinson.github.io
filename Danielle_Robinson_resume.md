@@ -1,7 +1,7 @@
 ## Danielle C. Robinson, PhD
 
-President, Co-Executive Director. 
-[Code for Science & Society](https://codeforscience.org/)      
+President, Co-Executive Director   
+[Code for Science & Society](https://codeforscience.org/)       
 [daniellecrobinson.com](daniellecrobinson.com) and [dat://about-danielle.hashbase.io/](dat://about-danielle.hashbase.io/)  
 Fediverse: @danielle@friend.camp  
 Twitter: @daniellecrobins  
@@ -9,7 +9,9 @@ Github, GitLab: @daniellecrobinson
 
 ### Education
 
-2016 - PhD in Neuroscience, Oregon Health & Science University
+2016 - PhD in Neuroscience, Oregon Health & Science University  
+Disseration: [The Role of the Myotubularin Pseudophosphatase MTMR13 in Myelination and Disease](https://digitalcollections.ohsu.edu/concern/etds/vt150j57r).  
+This work is embargoed because of the broken incentive structure in academic research. Much of my dissertation research is published open access in [An In Vitro Model of Charcot-Marie-Tooth Disease Type 4B2 Provides Insight Into the Roles of MTMR13 and MTMR2 in Schwann Cell Myelination](https://journals.sagepub.com/doi/full/10.1177/1759091418803282).
 
 2002 - BA in Fine Art, Rutgers College, Rutgers University
 
@@ -18,21 +20,20 @@ Github, GitLab: @daniellecrobinson
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
 [The Open Source Alliance for Open Scholarship Leadership Meetup](https://osaos.codeforscience.org/)| Portland, USA | May 10, 2019 | 📋 Organizer & Facilitator | Bringing a community of leaders together to share experiences of developing projects in open source and open scholarship.
-[csv,conf,v4](https://csvconf.com/) | Portland, USA | May 8-9, 2019 | 📋 Organizer  | Core org team and program committee for the world's best community-run open data conference.
+[csv,conf,v4](https://csvconf.com/) | Portland, USA | May 8-9, 2019 | 📋 Organizer | Core org team and program committee for the world's best community-run open data conference.
 [Reenvisioning the Internet: Decentralize the Web to Sidestep Corporate Control](https://walkerart.org/magazine/soundboard-reenvisioning-internet-robinson-pressman) | Walker Soundboard | March 21, 2019 | 📃 Author | When we ask whether a better internet is possible, we should first ask: for whom? 
 [PREreview + Outbreak Science Design Sprint](https://blog.codeforscience.org/prereview-awarded-two-grants/) | London, UK | March 13-14, 2019 | 📢+📋 Facilitator  | Ran a productive convening of outbreak scientists, policy experts, and scientific publishing folks to feedback into the design of a Rapid Review format designed to get reviews on preprints during outbreaks fast. 
 [URSSI Software Incubator Workshop](http://urssi.us/blog/2019/02/25/software-incubator-workshop-a-synthesis/) | College Park, US| February 11-12, 2019 | 🙋 Participant  | Engaged in a two day discussion centered on the question: Are there specific patterns of open community challenges and growth for research software that an incubator could address?  
-[Aaron Swartz Day](https://www.aaronswartzday.org/) | San Francisco, USA | Nov 10-11, 2018 | 📢 Speaker | In conversation with Karissa McKelvey about the decentralized web and the future of scholarly work online, more in [this interview](http://www.mondo2000.com/2018/08/21/aaron-swartz-day-2018-part-2/)
-[Whyspace? @ MozFest House 2018](https://wwhhyy.space/) | London, UK | October 24, 2018 | 📋 Organizer | Conversations and workshops seeking to explore and unearth more questions about why the web is where it is and what it could be
-[FORCE2018](https://www.force11.org/meetings/force2018)| Montreal, CA | October 11-12, 2018 | 📢 Speaker | [A decentralized scholarly commons](https://force2018.sched.com/event/F7ty/a-decentralized-scholarly-commons), [slides](https://zenodo.org/record/1458149), [video](https://www.youtube.com/watch?v=NKan5TIbtk8&list=PLtYOue8U25N2jBWo-iKIlZkUmAqOYemqn&index=4&t=10s)
+[Aaron Swartz Day](https://www.aaronswartzday.org/) | San Francisco, USA | Nov 10-11, 2018 | 📢 Speaker | In conversation with Karissa McKelvey about the decentralized web and the future of scholarly work online, more in [this interview](http://www.mondo2000.com/2018/08/21/aaron-swartz-day-2018-part-2/).
+[Whyspace? @ MozFest House 2018](https://wwhhyy.space/) | London, UK | October 24, 2018 | 📋 Organizer | Conversations and workshops seeking to explore and unearth more questions about why the web is where it is and what it could be.
+[FORCE2018](https://www.force11.org/meetings/force2018)| Montreal, CA | October 11-12, 2018 | 📢 Speaker | [A decentralized scholarly commons](https://force2018.sched.com/event/F7ty/a-decentralized-scholarly-commons), [slides](https://zenodo.org/record/1458149), [video](https://www.youtube.com/watch?v=NKan5TIbtk8&list=PLtYOue8U25N2jBWo-iKIlZkUmAqOYemqn&index=4&t=10s).
 [The Dat Project, an open and decentralized research data tool](https://www.nature.com/articles/sdata2018221/) | Scientific Data | October 2018 | 📃 Author | Today’s scientific data are primarily stored and accessed via centralized Web-based infrastructure. Centralization has advantages but also carries risks such as link rot and content drift, which can hinder scientific progress. It is time to ask whether traditional, centralized Web architecture aligns with scholarly priorities and values, and to collaboratively move towards new approaches that do.
-[Decentralized Web Summit 2018](https://decentralizedweb.net/) | San Francisco, USA | August 1-2, 2018 | 📢 Speaker | [Data Stewardship on the Decentralized Web](https://www.decentralizedweb.net/data-stewardship/) - Code for Science & Society and The Dat Project
+[Decentralized Web Summit 2018](https://decentralizedweb.net/) | San Francisco, USA | August 1-2, 2018 | 📢 Speaker | [Data Stewardship on the Decentralized Web](https://www.decentralizedweb.net/data-stewardship/).
 [The Open Source Alliance for Open Scholarship Handbook Hackathon](https://osaos.codeforscience.org/)| New York, USA | July 26-28, 2018 | 📋 Organizer & Facilitator | Brought the open source for scholarship community together to share experiences of developing projects in open source and open scholarship.
-Oregon State University Library Faculty Association seminar| Corvalis, USA | July 13, 2018 | 📢 Speaker | Prototyping A Decentralized Data Preservation Network
-[🍩 Donut.js 🍩](https://donutjs.club/past-speakers/)| Portland, USA | June 26, 2018 | 📢 Speaker | Everything I Know About Public Speaking I Learned from (Private Room) Karaoke, [video](https://www.youtube.com/watch?v=keZmD9jC86I)
+[🍩 Donut.js 🍩](https://donutjs.club/past-speakers/)| Portland, USA | June 26, 2018 | 📢 Speaker | Everything I Know About Public Speaking I Learned from (Private Room) Karaoke, [video](https://www.youtube.com/watch?v=keZmD9jC86I), truly one of the best talks I have ever given.
 [Digital Library Federation eResearch Network](https://osf.io/7twby/)| Webinar | June 20, 2018 |  📢 Speaker | Community engagement across research disciplines.
-[Online Northwest 2018](http://onlinenorthwest.org/) | Portland, USA | March 30, 2018 | 📢 Speaker | Keynote: A Vision for Decentralized Data Preservation Across a Network of Libraries and Trusted Institutions
-[American Medical Women's Association](https://www.amwa-doc.org/) Portland conference | Portland, OR | December 2, 2017 | 📢 Speaker | Community Activism panel discussion focusing on how to develop and advocate for policy change within institutions.
+[Online Northwest 2018](http://onlinenorthwest.org/) | Portland, USA | March 30, 2018 | 📢 Speaker | Keynote: A Vision for Decentralized Data Preservation Across a Network of Libraries and Trusted Institutions.
+[American Medical Women's Association](https://www.amwa-doc.org/) Portland conference | Portland, OR | December 2, 2017 | 📢 Speaker | Community activism panel discussion focusing on how to develop and advocate for policy change within institutions.
 [OpenCon2017](http://www.opencon2017.org/) | Berlin, DE | November 11-13, 2017 | 👩‍🏫 Session Lead | North America Regional Workshop Group 1: [How might we understand and address the time demands of working on open initiatives?](https://github.com/sparcopen/doathon/issues/35)
 [Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [Open Ears for Open Access: A discussion of barriers, innovation, and an inclusive future for scholarship (Digital Inclusion Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/652)
 [Mozilla Festival 2017](https://mozillafestival.org/) | London, UK | October 27-29, 2017 | 👩‍🏫 Session Lead | [Host your data on the peer to peer web with Dat (Decentralization Space)](https://github.com/MozillaFoundation/mozfest-program-2017/issues/505)
