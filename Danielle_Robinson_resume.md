@@ -74,6 +74,5 @@ Experience | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
 Post-Baccalaureate Premedical Certificate program | University of Vermont, Burlington VT | 2008–2009 	|  🙋 Student | Completed premed courses while working in a lab and at an elder care facility
 Back to school to study science | LaGuardia Community College, Long Island City NY | 2007-2008 |  🙋 Student | Completed basic science courses while working at a bakery and as a fancy coffee barista
-Barista and Baker | Brooklyn, NY | 2006-2008 |☕ 👩‍🍳 Food service worker | Working my way through my return to school in the coffee and food service industry.
 Decorative Arts Project Manager | New York City region | 2001–2006 | 👩‍🎨 Designer, project manager, and crew leader | Lead a team of painters and artists to execute murals, wall treatments, and flat painting.  Responsibilities included budgeting projects, communicating with clients, addressing technical problems, and managing the team.
 
