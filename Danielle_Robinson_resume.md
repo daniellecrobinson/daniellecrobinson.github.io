@@ -10,7 +10,7 @@ Github, GitLab: @daniellecrobinson
 ### Education
 
 2016 - PhD in Neuroscience, Oregon Health & Science University  
-Disseration: [The Role of the Myotubularin Pseudophosphatase MTMR13 in Myelination and Disease](https://digitalcollections.ohsu.edu/concern/etds/vt150j57r).  
+Dissertation: [The Role of the Myotubularin Pseudophosphatase MTMR13 in Myelination and Disease](https://digitalcollections.ohsu.edu/concern/etds/vt150j57r).  
 This work is embargoed because of the broken incentive structure in academic research. Much of my dissertation research is published open access in [An In Vitro Model of Charcot-Marie-Tooth Disease Type 4B2 Provides Insight Into the Roles of MTMR13 and MTMR2 in Schwann Cell Myelination](https://journals.sagepub.com/doi/full/10.1177/1759091418803282).
 
 2002 - BA in Fine Art, Rutgers College, Rutgers University
