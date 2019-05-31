@@ -16,7 +16,7 @@ This work is embargoed because of the broken incentive structure in academic res
 2002 - BA in Fine Art, Rutgers College, Rutgers University
 
 
-### Select Experience
+### Events, talks, and writing
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
 [The Open Source Alliance for Open Scholarship Leadership Meetup](https://osaos.codeforscience.org/)| Portland, USA | May 10, 2019 | 📋 Organizer & Facilitator | Bringing a community of leaders together to share experiences of developing projects in open source and open scholarship.
@@ -30,7 +30,7 @@ Event | Location | Date | Role | Description
 [The Dat Project, an open and decentralized research data tool](https://www.nature.com/articles/sdata2018221/) | Scientific Data | October 2018 | 📃 Author | Today’s scientific data are primarily stored and accessed via centralized Web-based infrastructure. Centralization has advantages but also carries risks such as link rot and content drift, which can hinder scientific progress. It is time to ask whether traditional, centralized Web architecture aligns with scholarly priorities and values, and to collaboratively move towards new approaches that do.
 [Decentralized Web Summit 2018](https://decentralizedweb.net/) | San Francisco, USA | August 1-2, 2018 | 📢 Speaker | [Data Stewardship on the Decentralized Web](https://www.decentralizedweb.net/data-stewardship/).
 [The Open Source Alliance for Open Scholarship Handbook Hackathon](https://osaos.codeforscience.org/)| New York, USA | July 26-28, 2018 | 📋 Organizer & Facilitator | Brought the open source for scholarship community together to share experiences of developing projects in open source and open scholarship.
-[🍩 Donut.js 🍩](https://donutjs.club/past-speakers/)| Portland, USA | June 26, 2018 | 📢 Speaker | Everything I Know About Public Speaking I Learned from (Private Room) Karaoke, [video](https://www.youtube.com/watch?v=keZmD9jC86I), truly one of the best talks I have ever given.
+[🍩 Donut.js 🍩](https://donutjs.club/past-speakers/)| Portland, USA | June 26, 2018 | 📢 Speaker | Everything I Know About Public Speaking I Learned from (Private Room) Karaoke, [video](https://www.youtube.com/watch?v=ENWwkWB6Iog), truly one of the best talks I have ever given.
 [Digital Library Federation eResearch Network](https://osf.io/7twby/)| Webinar | June 20, 2018 |  📢 Speaker | Community engagement across research disciplines.
 [Online Northwest 2018](http://onlinenorthwest.org/) | Portland, USA | March 30, 2018 | 📢 Speaker | Keynote: A Vision for Decentralized Data Preservation Across a Network of Libraries and Trusted Institutions.
 [American Medical Women's Association](https://www.amwa-doc.org/) Portland conference | Portland, OR | December 2, 2017 | 📢 Speaker | Community activism panel discussion focusing on how to develop and advocate for policy change within institutions.
