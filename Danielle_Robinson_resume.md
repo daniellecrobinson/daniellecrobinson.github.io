@@ -19,6 +19,7 @@ This work is embargoed because of the broken incentive structure in academic res
 ### Events, talks, and writing
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
+[Measurement Lab Team Retreat](https://www.measurementlab.net/)| Portland, USA | July 8-10, 2019 | 📋 Organizer & Facilitator | A convening of the Measurement Lab team focused on strategy for the next 10 years. 
 [The Open Source Alliance for Open Scholarship Leadership Meetup](https://osaos.codeforscience.org/)| Portland, USA | May 10, 2019 | 📋 Organizer & Facilitator | Bringing a community of leaders together to share experiences of developing projects in open source and open scholarship.
 [csv,conf,v4](https://csvconf.com/) | Portland, USA | May 8-9, 2019 | 📋 Organizer | Core org team and program committee for the world's best community-run open data conference.
 [Reenvisioning the Internet: Decentralize the Web to Sidestep Corporate Control](https://walkerart.org/magazine/soundboard-reenvisioning-internet-robinson-pressman) | Walker Soundboard | March 21, 2019 | 📃 Author | When we ask whether a better internet is possible, we should first ask: for whom? 
