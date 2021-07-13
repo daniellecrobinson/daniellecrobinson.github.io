@@ -19,7 +19,7 @@ This work is embargoed because of the broken incentive structure in academic res
 ### Events, talks, and writing
 Event | Location | Date | Role | Description
 ---------- | -------- | ---- | ---- | -----------
-New Baby | Pandemic | late 2019-2021 | A human who is trying | Growing the CS&S to 5 million in annual revenue with an active grantmaking program, an incubator, and 10 fiscally sponsored projects
+New Baby | Ongoing global pandemic | late 2019-2021 | Executive Director at CS&S and working parent | Growing the CS&S to 5 million in annual revenue with an active grantmaking program, an incubator, and 10 fiscally sponsored projects
 [Measurement Lab Team Retreat](https://www.measurementlab.net/)| Portland, USA | July 8-10, 2019 | 📋 Organizer & Facilitator | A convening of the Measurement Lab team focused on strategy for the next 10 years. 
 [The Open Source Alliance for Open Scholarship Leadership Meetup](https://osaos.codeforscience.org/)| Portland, USA | May 10, 2019 | 📋 Organizer & Facilitator | Bringing a community of leaders together to share experiences of developing projects in open source and open scholarship.
 [csv,conf,v4](https://csvconf.com/) | Portland, USA | May 8-9, 2019 | 📋 Organizer | Core org team and program committee for the world's best community-run open data conference.
