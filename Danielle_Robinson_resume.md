@@ -2,7 +2,7 @@
 
 President, Executive Director   
 [Code for Science & Society](https://codeforscience.org/)       
-[daniellecrobinson.com](daniellecrobinson.com) 
+[daniellecrobinson.com](daniellecrobinson.com)   
 Fediverse: @danielle@friend.camp  
 Twitter: @daniellecrobins  
 Github, GitLab: @daniellecrobinson  
